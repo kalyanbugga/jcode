@@ -21,7 +21,8 @@ class Anagram
 		   s1=s1.replace(c+" "," ");
 		   s2=s2.replace(c+" "," ");
 
-
+           java spring spingboot
+	   git ,agile
 		}
 	}
 }
@@ -29,5 +30,7 @@ class Anagram
 
 Thank you ,Will give another update
 
+
+done my changes
 
 Final copy
