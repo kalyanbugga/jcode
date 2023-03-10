@@ -21,7 +21,9 @@ class Anagram
 		   s1=s1.replace(c+" "," ");
 		   s2=s2.replace(c+" "," ");
 
-
+            
 		}
+	       System.out.println("Adding it for future update reference");
 	}
 }
+
