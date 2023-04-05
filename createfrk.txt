@@ -1,0 +1,7 @@
+fork creation is easy 
+
+go to add file and select new file 
+
+then add the code which u want in main branch code to contribute
+
+and merge it.
